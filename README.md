@@ -10,7 +10,6 @@ I'm a passionate **Computer Science student** pursuing my Bachelor's degree, wit
 
 ## 📫 Connect with Me  
 - **[Portfolio](https://hojinsohn.github.io/Portfolio/)**  
-- LinkedIn: **Hojin Sohn**  
 - Email: **sohn5312@gmail.com**  
 
 ## 🌐 Socials:
