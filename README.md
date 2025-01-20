@@ -1,6 +1,17 @@
-# 💫 About Me:
-👋 Hi, I’m Hojin Sohn<br>I'm a passionate Computer Science student pursuing my Bachelor's degrees, with a strong interest in machine learning and software engineering. I thrive on solving complex problems and building impactful projects that blend creativity and functionality.<br><br>💼 Projects I'm Proud Of<br>SnapBattle: A photo-sharing mobile app built with the MERN stack and Firebase, integrating ChatGPT API for creative user prompts.<br>Kaggle Competition: Developed a Machine Learning model to predict customer purchases using Python’s Pandas, NumPy, and XGBoost. Leveraged feature engineering and hyperparameter tuning to secure rank 6 with an 89% validation accuracy.<br>To-Do List Handler: A RESTful API with CLI support, enabling efficient task management through CRUD operations.<br>Matchify: A web app connecting people based on music taste, leveraging React Native, Firebase, and the Spotify API.<br><br>📫 Connect with Me<br>Portfolio: hojinsohn.github.io/Portfolio/ <br>LinkedIn: Hojin Sohn<br>Email: sohn5312@gmail.com
+# 💫 About Me:  
+👋 Hi, I’m Hojin Sohn  
+I'm a passionate **Computer Science student** pursuing my Bachelor's degree, with a strong interest in **machine learning** and **software engineering**. I thrive on solving complex problems and building impactful projects that blend creativity and functionality.  
 
+## 💼 Projects I'm Proud Of  
+- **SnapBattle**: A photo-sharing mobile app built with the MERN stack and Firebase, integrating ChatGPT API for creative user prompts.  
+- **Kaggle Competition**: Developed a Machine Learning model to predict customer purchases using Python’s Pandas, NumPy, and XGBoost. Leveraged feature engineering and hyperparameter tuning to secure **rank 6** with an 89% validation accuracy.  
+- **To-Do List Handler**: A RESTful API with CLI support, enabling efficient task management through CRUD operations.  
+- **Matchify**: A web app connecting people based on music taste, leveraging React Native, Firebase, and the Spotify API.  
+
+## 📫 Connect with Me  
+- **[Portfolio](https://hojinsohn.github.io/Portfolio/)**  
+- LinkedIn: **Hojin Sohn**  
+- Email: **sohn5312@gmail.com**  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HojinSohn) 
