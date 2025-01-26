@@ -1,4 +1,5 @@
 # 👋 Hi, I’m [Hojin Sohn](https://hojinsohn.github.io/Portfolio/)
+[Portfolio Website](https://hojinsohn.github.io/Portfolio/)
 I'm a passionate **Computer Science student** pursuing my Bachelor's degree, with a strong interest in **machine learning** and **software engineering**. I thrive on solving complex problems and building impactful projects that blend creativity and functionality.  
 
 ## 💼 Projects I'm Proud Of  
