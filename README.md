@@ -1,7 +1,7 @@
 Hi, I’m [Hojin Sohn](https://hojinsohn.github.io/Portfolio/)
-[Portfolio Website](https://hojinsohn.github.io/Portfolio/)
 
 Computer Science Student @ Purdue University <br />
+<br />
 Sofware Engineering | Application Develop | Machine Learning <br />
 
 ---
